@@ -14,3 +14,5 @@ As a web developer/software engineer, my goal for this project was to implement 
 - Utilized Git to track and manage changes to code. Received/provided constructive feedback to developers while indulging in source control. 
 
 - Participated in daily stand-ups with a full stack development team, weekly coding sprint plannings and daily code talks. 
+
+ *Code is proprietary and I can only include code snippets.*
